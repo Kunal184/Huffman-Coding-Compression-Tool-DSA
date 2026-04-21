@@ -7,15 +7,15 @@ export default {
   theme: {
     extend: {
       colors: {
-        'huffman-bg': '#0f172a',
-        'huffman-panel': '#1e293b',
-        'huffman-accent': '#38bdf8',
-        'huffman-node': '#334155',
-        'huffman-edge': '#94a3b8',
-        'huffman-text': '#f8fafc',
+        'huffman-bg': '#ffffff',
+        'huffman-panel': '#f3e8ff',
+        'huffman-accent': '#7c3aed',
+        'huffman-node': '#e9d5ff',
+        'huffman-edge': '#6b7280',
+        'huffman-text': '#111827',
       },
       fontFamily: {
-        mono: ['JetBrains Mono', 'Fira Code', 'monospace'],
+        mono: ['Inter', 'Segoe UI', 'Arial', 'sans-serif'],
       },
     },
   },
